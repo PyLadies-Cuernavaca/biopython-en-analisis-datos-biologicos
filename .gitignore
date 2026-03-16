@@ -1,2 +1,8 @@
 .DS_Store
 .Rhistory
+
+.ipynb_checkpoints/
+.RData
+.Rproj.user
+*_cache/
+*_files/
